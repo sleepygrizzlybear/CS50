@@ -1,5 +1,5 @@
     # Python Blackjack Game Walkthrough For CS50 Course
-    #### Video Demo: https://www.youtube.com/watch?v=CZ4iWjmWuXw
+    #### Video Demo: (https://www.youtube.com/watch?v=ZZrl1Hqklfo)
     #### Description:
     This Python project is a simple implementation of the classic Blackjack card game. The game is built using object-oriented programming principles and utilizes the emoji library for displaying card suits as emojis.
 
