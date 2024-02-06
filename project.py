@@ -145,7 +145,9 @@ class BlackJack:
             else:
                 print("Invalid input. Please type 'y' for yes or 'n' for exit: ")
 
-
-if __name__ == "__main__":
+def main():
     blackjack = BlackJack()
     blackjack.start_game()
+    
+if __name__ == "__main__":
+    main()
