@@ -1,5 +1,5 @@
     # Blackjack in Python
-    #### Video Demo:  [https://www.youtube.com/watch?v=crgplc7qFnI](https://www.youtube.com/watch?v=0GYwd_STjkE)
+    #### Video Demo:  (https://www.youtube.com/watch?v=0GYwd_STjkE)
     #### Description:
     This is a simplified Blackjack game implemented in Python. It allows users to play multiple rounds of Blackjack against the computerized dealer.
 
