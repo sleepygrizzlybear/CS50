@@ -15,7 +15,7 @@ def test_deal_card():
     assert len(blackjack.deck) == initial_deck_size - 1
 
 
-def test_score_calculation():
+def test_get_score():
     blackjack = BlackJack()
     hand = [{'suit': emoji.emojize(':heart_suit:', variant="emoji_type"), 'card': 'Ace'}, {
         'suit': emoji.emojize(':heart_suit:', variant="emoji_type"), 'card': '10'}]
